@@ -1,0 +1,12 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 113 23" width="113" height="23">
+	<title>WebWorld</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 24px;line-height: 20px;fill: #ffffff;font-weight: 400;font-family: "Pacifico", "Pacifico" } 
+		.t1 { font-size: 24px;line-height: 20px;fill: #00bac6;font-weight: 400;font-family: "Pacifico", "Pacifico" } 
+	</style>
+	<text id="WebWorld" style="transform: matrix(1,0,0,1,53,22)" >
+		<tspan x="-57.5" y="0" class="t0">W</tspan><tspan  y="0" class="t0">eb</tspan><tspan  y="0" class="t1">World
+</tspan>
+	</text>
+</svg>
