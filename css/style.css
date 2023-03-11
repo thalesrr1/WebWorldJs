@@ -1,3 +1,23 @@
-.hdr-1 {
+.menu-principal {
+width: 100%;
 background-color: #252323;
+height: 60px;
+}
+
+
+main {
+margin: 0 auto;
+width: 980px;
+position: relative;
+}
+
+.logo{
+float: left;
+padding: 16px;
+width: 90%;
+}
+
+.redes-sociais ul li {
+display: inline-block;
+float: left;
 }
